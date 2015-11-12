@@ -1,0 +1,15 @@
+{
+    "name": "liqi/test_composer",
+    "description": "test",
+    "authors": [
+        {
+            "name": "liqi",
+            "email": "176205019@qq.com"
+        }
+    ],
+    "type":"library",
+    "require": {},
+    "autoload": {
+    "psr-0": { "": "src/" }
+  }
+}
