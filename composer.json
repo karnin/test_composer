@@ -1,12 +1,14 @@
 {
     "name": "liqi/test_composer",
     "description": "test",
+    "version":"1.0.1",
     "authors": [
         {
             "name": "liqi",
             "email": "176205019@qq.com"
         }
     ],
+
     "type":"library",
     "require": {},
     "autoload": {
